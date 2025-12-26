@@ -55,3 +55,7 @@ graph TD
 完成以上步骤后，SmsBridge 应该就能在您的小米设备上稳定运行了。如果仍然遇到问题，请检查应用的通知权限是否已开启，以确保您能收到应用的状态通知。
 
 ## 应用截图
+![83bd66f8105d6e2aa6662fd79439db87](https://github.com/user-attachments/assets/b3c9daef-a8be-4ae6-bce4-8d5f0c87823c)
+![6cd2a4b66c756b56e1b422121f04acde](https://github.com/user-attachments/assets/8960c87a-8a7a-44bf-8977-cd61e297d76c)
+![446ed7940997b25c7a710719edca3f90](https://github.com/user-attachments/assets/1cb44b55-4928-435b-a2dd-b24b659a6806)
+
